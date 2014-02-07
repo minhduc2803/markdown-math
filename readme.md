@@ -3,7 +3,7 @@
 
 The new version of Atlas supports Markdown as a source format as well as HTML. So, if you like, you have the option of authoring .md files in Atlas, and then when you add them to the build list, we convert to proper HTMLBook behind the scenes (we take care of generating the necessary <section> tags, so you don’t need to worry about that)
 
-Regarding math, you can indeed use the Latex equation editor. Or if you’re adding equations manually, just wrap them in a <span> with the attribute data-type=“tex”, like the following:
+Regarding math, you can indeed use the Latex equation editor. Or if you’re adding equations manually, just wrap them in a &lt;span&gt; with the attribute data-type=“tex”, like the following:
 
 <span class="math-tex" data-type="tex">\(x = {-b \pm \sqrt{b^2-4ac} \over 2a}\)</span>
 
