@@ -5,7 +5,7 @@ The new version of Atlas supports Markdown as a source format as well as HTML. S
 
 Regarding math, you can indeed use the Latex equation editor. Or if you’re adding equations manually, just wrap them in a &lt;span&gt; with the attribute data-type=“tex”, like the following:
 
-<p><span class="math-tex" data-type="tex">\(x = {-b \pm \sqrt{b^2-4ac} \over 2a}\)</span></p>
+<span class="math-tex" data-type="tex">\(x = {-b \pm \sqrt{b^2-4ac} \over 2a}\)</span>
 
 Here's a formula:
 
