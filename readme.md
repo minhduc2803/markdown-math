@@ -15,5 +15,11 @@ Here's a formula:
  $( lim_{x \to \infty} \exp(-x) = 0 $)
 </span>
 
+And, one Ms. Rogers from High School algebra would love:
+
+
+<span class="math-tex" data-type="tex">
+ $( a^2 + b^2 = c^2  $)
+</span>
 
 
