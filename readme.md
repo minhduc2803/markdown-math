@@ -17,9 +17,19 @@ Here's a formula:
 
 And, one Ms. Rogers from High School algebra would love:
 
-
 <span class="math-tex" data-type="tex">
  $ a^2 + b^2 = c^2  $
 </span>
 
 
+And finally:
+
+<span class="math-tex" data-type="tex">
+
+\begin{matrix}
+  a & b & c \\
+  d & e & f \\
+  g & h & i
+ \end{matrix}
+
+</span>
