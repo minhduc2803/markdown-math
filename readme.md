@@ -26,10 +26,11 @@ And finally:
 
 <span class="math-tex" data-type="tex">
 
-$ begin{matrix}
+$ 
+ begin{matrix}
   a & b & c \\
   d & e & f \\
   g & h & i
- $ end{matrix}
-
+ end{matrix}
+$
 </span>
