@@ -23,6 +23,6 @@
       "consolidated": false
     }
   },
-  "theme": "oreillymedia/atlas_tech1c_theme.git",
+  "theme": "oreillymedia/atlas_tech1c_theme",
   "title": "markdown-math"
 }
